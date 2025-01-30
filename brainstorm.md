@@ -1,6 +1,4 @@
-# Goals of the Warehouse
-
-## How data is generated?
+# How data is generated?
 
 ## Zomato High Level Entities
 - Customers
