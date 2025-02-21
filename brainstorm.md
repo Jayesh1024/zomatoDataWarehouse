@@ -14,6 +14,7 @@
 - Events Data (All User Interactions)
 - Orders
 - Reviews (Customer Satisfaction)
+- Complaints
 
 ### Sellers
 - Restaurant Data (Menu, Prices, Location)
